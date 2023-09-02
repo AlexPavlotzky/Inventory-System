@@ -1,5 +1,7 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. Inventory-System.
+       AUTHOR. Alexander Pavlotzky.
+       DATE-WRITTEN. 31/08/2023.
        
        DATA DIVISION.
        WORKING-STORAGE SECTION.
